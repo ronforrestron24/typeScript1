@@ -1,15 +1,11 @@
 {
-  "name": "understanding-ts",
+  "name": "y",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  }
+  "description": ""
 }
